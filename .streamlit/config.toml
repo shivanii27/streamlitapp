@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#2e7d32"            # Button & highlight (dark green)
+backgroundColor = "#e8f5e9"         # Page background (light green)
+secondaryBackgroundColor = "#c8e6c9" # Sidebar background (softer green)
+textColor = "#1b5e20"               # Main text (deep green)
+font = "sans serif"                 # Clean font
